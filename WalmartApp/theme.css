@@ -1,0 +1,36 @@
+img.adjust {
+    margin: 5;
+    border: 1px solid #ccc;
+    float:left;
+    
+}	
+
+   img:hover {
+    border: 1px solid #777;
+}
+
+  img.desired {
+    width: auto;
+    height: auto;
+}
+          p.blue{
+              color: blue;
+          }
+          
+          strong.green{
+              color: lawngreen;
+              
+          }
+         table, th , td {
+            border: 0px solid grey;
+            border-collapse:collapse ;
+            padding: 2px;
+         }
+         
+         table tr:nth-child(odd) {
+            background-color:beige;
+         }
+         
+         table tr:nth-child(even) {
+            background-color: #ffffff;
+         }
